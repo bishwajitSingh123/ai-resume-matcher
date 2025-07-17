@@ -30,3 +30,6 @@ git clone https://github.com/bishwajitSingh123/ai-resume-matcher.git
 cd ai-resume-matcher
 pip install -r requirements.txt
 streamlit run app.py
+
+🙏 Created with ❤️ by Bishwajit
+🔗 Jai Shree Ram | Feel free to fork, star ⭐, and connect!
